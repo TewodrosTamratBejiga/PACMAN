@@ -11,3 +11,5 @@ To run the program click on the image and watch when the packman moves horizonta
                                         Starter code were provided by MIT xPRO 
                               
                                            Source Code Owner – MIT xPRO
+                                           
+This project is to create PacMan with the click of a button and each of them will move on the browser window at their own pace. When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen and when you click the "Start Game" button, the pacman created should start moving at random velocity on the screen. Finally, when a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
